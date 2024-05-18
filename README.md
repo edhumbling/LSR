@@ -17,7 +17,7 @@ LSR is a desktop application for managing student grades, generating reports, an
 ## Installation
 1. Clone the repository:
 
-git clone https://github.com/your-username/LSR.git
+git clone https://github.com/edhumbling/LSR.git
 cd LSR
 
 markdown
@@ -44,7 +44,7 @@ markdown
 - Final SBA: View final SBA reports.
 - Report Card: Generate report cards.
 - Settings: Customize application settings.
-
+  
 ## Contributing
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-name`).
@@ -57,4 +57,4 @@ markdown
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For any inquiries or support, please contact [Your Name](mailto:your-email@example.com
+For any inquiries or support, please contact [Emmanuel Humbling](mailto:emma@edisam.com
